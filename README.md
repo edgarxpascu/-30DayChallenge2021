@@ -8,4 +8,4 @@ Edgar Zavaleta
 
 | Category             |  Example |
 :-------------------------:|:-------------------------:
-[Day 11: 3D](files/3D.ipynb)  |  ![](contributions/01_IRN.png)
+[Day 11: 3D](files/3D.ipynb)  |  ![](maps/Terreno_3D.png)
