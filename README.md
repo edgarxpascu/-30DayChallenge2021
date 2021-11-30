@@ -9,3 +9,10 @@ Edgar Zavaleta
 | Category             |  Example |
 :-------------------------:|:-------------------------:
 [Day 11: 3D](files/3D.ipynb)  |  ![](maps/Terreno_3D.png)
+[Day 12: Population](files/Poblacion.ipynb)  |  ![](maps/Poblacion.png)
+Day 15: Map made without using a computer (*Isotherm*)  |  ![](maps/handmade.jpg)
+[Day 16: Urban/rural ](files/Urban&Rural.ipynb)  |  ![](maps/Urban&Rural.png)
+[Day 17: Land ](files/Land.ipynb)  |  ![](maps/LandChina.png)
+[Day 18: Water ](files/Water.ipynb)  |  ![](maps/Agua.png)
+[Day 19: (*Heat*) Island(s) ](files/Islands.ipynb)  |  ![](maps/Islas.png)
+[Day 22: Boundaries ](files/Boundaries.ipynb)  |  ![](maps/CDMX.png)
