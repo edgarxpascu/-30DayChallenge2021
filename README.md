@@ -17,4 +17,4 @@ Day 15: Map made without using a computer (*Isotherm*)  |  ![](maps/handmade.jpg
 [Day 19: (*Heat*) Island(s) ](files/Islands.ipynb)  |  ![](maps/Islas.png)
 [Day 22: Boundaries ](files/Boundaries.ipynb)  |  ![](maps/CDMX.png)
 [Day 23: Data challenge 3: GHSL Global Human Settlement Layer ](files/DataChallenge3_GHSL.ipynb)  |  ![](maps/ZMVM_GHSL.png)
-[Day 25: Interactive map ](files/Interactive.ipynb)  |  ![]({% include maps/map.html%})
+[Day 25: Interactive map ](files/Interactive.ipynb)  |  ![]{% include maps/map.html%}
