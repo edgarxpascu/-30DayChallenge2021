@@ -1,6 +1,7 @@
 # Welcome to my "#30DayMapChallenge 2021"
 
->The idea is to create (and publish) maps based on different themes on each day of the month using the hashtag #30DayMapChallenge, You can prepare the maps beforehand, but the main idea is to publish maps from specific topics on specific days listed below. Just include a picture of the map when you post to Twitter with the hashtag. You don't have to sign up anywhere to participate. There are no restrictions on the tools, technologies or the data you use in your maps. Doing less than 30 is also fine (doing all 30 is really hard!). 
+>The idea is to create (and publish) maps based on different themes on each day of the month using the hashtag #30DayMapChallenge, You can prepare the maps beforehand, but the main idea is to publish maps from specific topics on specific days listed below. Just include a picture of the map when you post to Twitter with the hashtag. You don't have to sign up anywhere to participate. There are no restrictions on the tools, technologies or the data you use in your maps. Doing less than 30 is also fine (doing all 30 is really hard!).
+> 
 >Topi Tjukanov (@tjukanov)
 
 Being completely honest, when I found there was a challenge for making maps, I decided I should get into it. At first, I was using QGIS, it wasn't bad but watching some incredible maps made in Python made get me the idea of giving it a chance. 
