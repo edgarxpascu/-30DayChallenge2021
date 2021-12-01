@@ -18,7 +18,7 @@ Being completely honest, when I found there was a challenge for making maps, I d
 [Day 7: Green]()  |  ![](maps/Green.png)
 [Day 8: Blue]()  |  ![](maps/Blue.png)
 [Day 9: Monochrome](files/Monochrome.ipynb) |  ![](maps/mapa.png)
-[Day 10: Raster](files/Raster.ipynb) |  ![](maps/mapa.png)
+[Day 10: Raster](files/Raster.ipynb) |  ![](maps/Raster.png)
 [Day 11: 3D](files/3D.ipynb)  |  ![](maps/Terreno_3D.png)
 [Day 12: Population](files/Poblacion.ipynb)  |  ![](maps/Poblacion.png)
 [Day 15: Map made without using a computer (*Isotherm*)  |  ![](maps/handmade.jpg)]
